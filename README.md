@@ -1,7 +1,7 @@
 Kick start up using laravel without any sort of configurations having below mentioned features
 
 #####Requirements
-
+=================
 PHP 5.4.x
 
 MySQL 5.5+
@@ -14,6 +14,7 @@ Composer
 
 
 #####Features
+=============
 
 Role based access system
 
@@ -25,7 +26,7 @@ Drag and drop home page customization
 
 
 #####To Do
-
+==========
 Shopping cart
 
 Drag and drop home page customization
